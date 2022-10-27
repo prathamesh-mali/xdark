@@ -767,6 +767,13 @@
 			}
 		},
 		{
+			"name": "source language",
+			"scope": "source",
+			"settings": {
+				"foreground": "#ff7878",
+			}
+		},
+		{
 			"name": "Storage JS TS",
 			"scope": "token.storage",
 			"settings": {
